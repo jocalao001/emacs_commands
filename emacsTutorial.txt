@@ -1,5 +1,12 @@
 # Window management in Emacs
 
++ [ ] m to mark files
+  - [ ] type x + yes (to delete te files selected)
++ [ ] u to unmark files
++ [ ] t to mark all the files on the directory
++ [ ] Mayus + u to unmark all files
++ [ ] %m select files to mark
+  - [ ] type D to delete te files selected
 + [ ] Emacs Windows are split screens
 + [ ] C-x b (switch between buffers)
   - [ ] type out buffer and tab for auto-complete
