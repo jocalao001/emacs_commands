@@ -1,17 +1,17 @@
 # Window management in Emacs
 
 + [ ] m to mark files
-  - [ ] type x + yes (to delete te files selected)
+  + [ ] type x + yes (to delete te files selected)
 + [ ] u to unmark files
 + [ ] t to mark all the files on the directory
 + [ ] Mayus + u to unmark all files
 + [ ] %m select files to mark
-  - [ ] type D to delete te files selected
+  + [ ] type D to delete te files selected
 + [ ] Emacs Windows are split screens
 + [ ] C-x b (switch between buffers)
-  - [ ] type out buffer and tab for auto-complete
-  - [ ] hit enter to get a list of buffers in the folder
-  - [ ] create practice buffer
+  + [ ] type out buffer and tab for auto-complete
+  + [ ] hit enter to get a list of buffers in the folder
+  + [ ] create practice buffer
 + [ ] C-x C-f (find-file)
 + [ ] C-x k (kill-buffer)
 + [ ] C-x C-s (save-buffer)
@@ -43,27 +43,23 @@
 + [ ] C-x 4 r (open file as read only in new window)
 + [ ] C-x 5 r (open file as read only in new frame)
 + [ ] C-x C-b (opens buffer list)
-  - [ ] C-n, n, space (moves down)
-  - [ ] C-p, p, backspace (moves up)
-  - [ ] d or k marks buffer for deletion
-  - [ ] u unmarks buffer
-  - [ ] m marks the buffer
-  - [ ] s saves buffer
-  - [ ] x to execute delete or save command and other one letter commands
-  - [ ] ~ mark buffer as unmodified
-  - [ ] % toggle read only status of buffer (if possible)
-  - [ ] 1 display buffer in fullscreen
-  - [ ] 2 display buffer and next one in horizontal windows
-  - [ ] f replace buffer list with this buffer
-  - [ ] o replace other window with this buffer
-  - [ ] v display buffers marked with m, Emacs creates all windows
-  - [ ] q quit buffer list
+  + [ ] C-n, n, space (moves down)
+  + [ ] C-p, p, backspace (moves up)
+  + [ ] d or k marks buffer for deletion
+  + [ ] u unmarks buffer
+  + [ ] m marks the buffer
+  + [ ] s saves buffer
+  + [ ] x to execute delete or save command and other one letter commands
+  + [ ] ~ mark buffer as unmodified
+  + [ ] % toggle read only status of buffer (if possible)
+  + [ ] 1 display buffer in fullscreen
+  + [ ] 2 display buffer and next one in horizontal windows
+  + [ ] f replace buffer list with this buffer
+  + [ ] o replace other window with this buffer
+  + [ ] v display buffers marked with m, Emacs creates all windows
+  + [ ] q quit buffer list
 + [ ] from terminal - emacs file1 file2 file3
-
-
-
-
-* Editing Modes
++ Editing Modes
 
 Press enter after each of these commands
 
@@ -93,9 +89,6 @@ For page breaks:
 C-x [ move back a page
 C-x ] move forward a page
 Make a page delimiter to break pages
-
-
-
 Create a page break with C-q C-l
 C-v (move down a screen)
 M-v (move up a screen)
@@ -104,8 +97,6 @@ M-x goto-char enter
 M-n repeat a command (n is the number of times you want to repeat) - hold down the alt key
 I like C-u n command
 C-l recenter
-
-
 
 M-d => Kill-word (delete a word)
 C-d => delete a character
